@@ -11,6 +11,7 @@ yahomiです。<br>
 - Java
 - Spring
 - JavaScript/TypeScript
+- Python
 <br><br>
 
 # 好きなこと
