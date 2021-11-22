@@ -1,7 +1,13 @@
 # プロフィール
 Illustrator | Web-Engineer<br>
-yahomiです。<br>
+yahomiです。
+
 2021年03月〜学習開始<br>
+春からJavaプログラマ<br>
+抹茶ラテ大好き<br>
+JS/TS　も勉強中
+
+
 <br><br>
 
 # 学んでいる技術
