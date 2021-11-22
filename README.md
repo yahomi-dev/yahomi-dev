@@ -1,4 +1,4 @@
-<img src="194.png" width=50% height=50%>
+<img src="kujira-hige.png">
 # プロフィール
 Illustrator | Web-Engineer<br>
 yahomiです。
