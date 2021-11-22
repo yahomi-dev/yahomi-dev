@@ -11,7 +11,10 @@ yahomiです。<br>
 - Java
 - Spring
 - JavaScript/TypeScript
-- Python
+- Python3
+- Django
+- PHP
+- Laravel
 <br><br>
 
 # 好きなこと
