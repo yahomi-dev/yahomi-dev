@@ -1,6 +1,3 @@
-- 👋 Hi, I’m yahomi
-<br><br><br>
-
 # プロフィール
 Illustrator | Web-Engineer<br>
 yahomiです。<br>
