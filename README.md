@@ -5,7 +5,7 @@ Illustrator | Web-Engineer<br>
 yahomiです。
 
 2021年03月〜学習開始<br>
-春からJavaプログラマ<br>
+フロントエンドエンジニア<br>
 抹茶ラテ大好き<br>
 JS/TS　も勉強中
 
@@ -16,6 +16,7 @@ JS/TS　も勉強中
 - Java
 - Spring
 - JavaScript/TypeScript
+- Vue.js
 - Python3
 - Django
 - PHP
