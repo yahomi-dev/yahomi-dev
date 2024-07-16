@@ -1,41 +1,28 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yahomi-dev" />
+</div>
+
 <img src="kujira-hige.png">
 
-# プロフィール
-Illustrator | Web-Engineer<br>
-yahomiです。
 
-2021年03月〜学習開始<br>
-フロントエンドエンジニア<br>
-
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Profile
+yahomiです
+<br>
+フロントエンドエンジニア
 <br><br>
 
-# 学んでいる技術
-- Java
-- Spring
-- JavaScript/TypeScript
-- Vue.js
-- Python3
-- Django
-- PHP
-- Laravel
-<br><br>
 
-# 好きなこと
-- お絵かき
-- Webアプリ開発
-- FPSゲーム
-- 将棋
-- 音楽/楽器演奏
-- 芝生（で寝る）
-<br><br><br>
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,vue,figma,docker,git,neovim,vim" />
+<br>
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahomi-dev&show_icons=true&theme=dracula)
-<br><br><br>
 
-## Top Langs 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahomi-dev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br><br><br>
-
-Feel free to contact me
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yahomi-dev&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahomi-dev&theme=vue-dark&layout=compact" />
+</div>
 
