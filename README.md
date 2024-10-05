@@ -15,7 +15,7 @@ yahomiです
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,vue,figma,docker,git,neovim,vim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=js,ts,react,tailwind,neovim" />
 <br>
 
 
